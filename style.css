@@ -3,5 +3,25 @@
 *::before,
 *::after{
     box-sizing: border-box;
+    margin: 0;
 }
 
+header{
+    width: 100vw;
+    height: 25vh;
+    background-color: aquamarine;
+}
+
+.triple{
+    width: 33.33vw;
+    background-color: pink;
+    height: 25vh;
+    border: 2px solid black;
+    
+}
+
+footer{
+    width:100vw;
+    height: 25vh;
+    background-color: bisque;
+}
